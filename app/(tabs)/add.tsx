@@ -46,6 +46,7 @@ export default function     Add(){
                 <Text style={myStyle.buttonText}>บันทึก</Text>
             </TouchableOpacity>
         </View>
+
     )
 }
 
